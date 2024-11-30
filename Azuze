@@ -1,7 +1,7 @@
 script_key = "uXfngIGkcoCmBOckDtEklpaFekAbrcku"
 getgenv().SetFpsCap = true
 getgenv().FpsCap = 20
-    getgenv().UiCheckItems = false
+    getgenv().UiCheckItems = true
     getgenv().WhiteScreen = true
     getgenv().OneClickSetting = {
         Enable=true,
@@ -28,7 +28,7 @@ getgenv().FpsCap = 20
         DisableCDK = false,
         DisableRaceEvolve = false,
          RollRace={
-            Enable = false,
+            Enable = true,
             Races = {"Mink","Fishman","Human","Skypiea"}
         },
        MinFragment = 20000, --Farm After Max Level
