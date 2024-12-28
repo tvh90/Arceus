@@ -96,6 +96,6 @@ _G.GunSettings = { -- ปืนที่จะทำ
     ['SerpentBow'] = true,
     ['SoulGuitar'] = true
 }
-(getgenv()).key = "MARUJBCCDM58VPDYOXZHGQ8NFH";
-(getgenv()).id = "1093871052112789586";
+(getgenv()).key = "MARUNRP339N95XWVY1PF0WE5Z2";
+(getgenv()).id = "1086721157711024200";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruComkak/main/PCBit.lua"))()
